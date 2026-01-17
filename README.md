@@ -1,0 +1,2 @@
+# snowflake_documents
+Snowflake資格勉強用のドキュメント・資料まとめリポジトリ
